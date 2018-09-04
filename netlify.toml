@@ -1,7 +1,0 @@
-[[redirects]]
-  from = "/"
-  to = "/index.html"
-
-  [[redirects]]
-  from = "/bg-animation"
-  to = "/bg-animation.html"
